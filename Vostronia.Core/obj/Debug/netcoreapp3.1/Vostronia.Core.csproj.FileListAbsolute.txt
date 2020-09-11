@@ -1,0 +1,9 @@
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.AssemblyInfoInputs.cache
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.AssemblyInfo.cs
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\inf-2\source\repos\Vostronia.Core\bin\Debug\netcoreapp3.1\Vostronia.Core.deps.json
+C:\Users\inf-2\source\repos\Vostronia.Core\bin\Debug\netcoreapp3.1\Vostronia.Core.dll
+C:\Users\inf-2\source\repos\Vostronia.Core\bin\Debug\netcoreapp3.1\Vostronia.Core.pdb
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.dll
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.pdb
+C:\Users\inf-2\source\repos\Vostronia.Core\obj\Debug\netcoreapp3.1\Vostronia.Core.csprojAssemblyReference.cache
