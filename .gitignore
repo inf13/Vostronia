@@ -3,12 +3,12 @@
 *.dll
 *.pdb
 *.cache
-Vostronia/.vs/Vostronia/v16/.suo
 *.v2
 *.props
 *.targets
 *.v2
+Vostronia/.vs/*
 Vostronia/bin/*
 Vostronia/obj/*
 Vostronia.Core/obj/*
-Vostronia/bin/*
+Vostronia.Core/bin/*
