@@ -12,3 +12,5 @@ Vostronia/bin/*
 Vostronia/obj/*
 Vostronia.Core/obj/*
 Vostronia.Core/bin/*
+.vscode/launch.json
+.vscode/tasks.json

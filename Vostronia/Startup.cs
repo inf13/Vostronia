@@ -31,7 +31,7 @@ namespace Vostronia
             }
 
             app.UseRouting();
-
+            
             app.UseEndpoints(x => x.MapDefaultControllerRoute());
         }
     }
