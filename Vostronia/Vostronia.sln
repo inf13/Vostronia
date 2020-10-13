@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vostronia", "Vostronia.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vostronia.Core", "..\Vostronia.Core\Vostronia.Core.csproj", "{6CF5ADCD-13EE-4224-9E7F-3A1065153A1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vostronia.Benchmark", "..\Vostronia.Benchmark\Vostronia.Benchmark.csproj", "{67343AEB-C050-4DF3-8D13-D8A147135F70}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vostronia.Benchmark.Runnner", "..\Vostronia.Benchmark.Runnner\Vostronia.Benchmark.Runnner.csproj", "{4F2A9643-ABA5-4DD1-9426-CB1B7EE7FE17}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{6CF5ADCD-13EE-4224-9E7F-3A1065153A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CF5ADCD-13EE-4224-9E7F-3A1065153A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CF5ADCD-13EE-4224-9E7F-3A1065153A1D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{67343AEB-C050-4DF3-8D13-D8A147135F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67343AEB-C050-4DF3-8D13-D8A147135F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67343AEB-C050-4DF3-8D13-D8A147135F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67343AEB-C050-4DF3-8D13-D8A147135F70}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4F2A9643-ABA5-4DD1-9426-CB1B7EE7FE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4F2A9643-ABA5-4DD1-9426-CB1B7EE7FE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F2A9643-ABA5-4DD1-9426-CB1B7EE7FE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
